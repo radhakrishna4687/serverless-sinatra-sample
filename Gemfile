@@ -4,7 +4,7 @@ gem 'sinatra'
 gem 'json'
 gem 'rack'
 gem 'rack-contrib'
-gem 'aws-record'
+gem 'aws-record', '>= 2.4.0'
 gem 'rake'
 gem 'rubysl-base64'
 
