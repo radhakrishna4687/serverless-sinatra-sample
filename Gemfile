@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 gem 'sinatra'
 gem 'json'
-gem 'rack'
+gem 'rack', '>= 2.2.12'
 gem 'rack-contrib'
 gem 'aws-record'
 gem 'rake'
